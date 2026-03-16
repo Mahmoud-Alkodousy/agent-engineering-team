@@ -39,9 +39,9 @@ Your Idea
     ▼
 ┌──────────────────────────────────────────┐
 │  3. Code Generation (3 parallel agents)  │
-│     ├── Database Agent  → models.py, schemas.py, database.py (SQLAlchemy 2.0)
-│     ├── Backend Agent   → FastAPI routers + main.py (one router per resource)
-│     └── Frontend Agent  → React 18 + Vite (pages, components, Chart.js, dark UI)
+│     ├── Database Agent                   │ → models.py, schemas.py, database.py (SQLAlchemy 2.0)
+│     ├── Backend Agent                    │ → FastAPI routers + main.py (one router per resource)
+│     └── Frontend Agent                   │ → React 18 + Vite (pages, components, Chart.js, dark UI)
 └──────────────────────────────────────────┘
     │
     ▼
